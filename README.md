@@ -7,7 +7,7 @@
 
 ## Introduction
 
-In the previous lessons, we started to see how customizing our JSON data in the
+In the previous lessodns, we started to see how customizing our JSON data in the
 controller works but can start to get pretty complicated. It is possible for
 a single controller action to render data from multiple models on our Rails
 API. It is also possible to specify what we want and don't want to render.
